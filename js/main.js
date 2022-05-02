@@ -3,6 +3,8 @@ window.onload = function(){
     const map = createMap();
 }
 
+
+
 function createMap() {
     return new ol.Map({
         layers: [
